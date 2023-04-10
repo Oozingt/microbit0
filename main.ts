@@ -1,3 +1,3 @@
 basic.forever(function () {
-    basic.showNumber(114514)
+    basic.showIcon(IconNames.Heart)
 })
