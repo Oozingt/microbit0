@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="Acg+*.`H1xnRj7ehz,e^">wendu</variable></variables></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="`;y#;+Q:-lS}yu}e!~C2">wendu</variable></variables><block type="device_forever" id="^.Ss,1mFjlYZ~P*7,-I?" x="0" y="0"><statement name="HANDLER"><block type="device_show_number" id="RB@X~gW^148bC`~FjtRk"><value name="number"><shadow type="math_number" id="tgEp1-V]z)Bf)doB7WlN"><field name="NUM">114514</field></shadow></value></block></statement></block></xml>
